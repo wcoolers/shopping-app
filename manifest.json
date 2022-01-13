@@ -21,7 +21,7 @@
     ],
     "theme_color": "#fff",
     "background_color": "#fff",
-    "start_url": "/shopping-app",
+    "start_url": "/shopping-app/",
     "id": "/shopping-app",
     "display": "standalone",
     "orientation": "portrait"
